@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <users>
+        <name>Leanne Graham</name>
+        <username>Bret</username>
+        <email>Sincere@april.biz</email>
+        <phone>1-770-736-8031 x56442</phone>
+        <location>Gwenborough</location>
+        <company>Romaguera-Crona</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Ervin Howell</name>
+        <username>Antonette</username>
+        <email>Shanna@melissa.tv</email>
+        <phone>010-692-6593 x09125</phone>
+        <location>Wisokyburgh</location>
+        <company>Deckow-Crist</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Clementine Bauch</name>
+        <username>Samantha</username>
+        <email>Nathan@yesenia.net</email>
+        <phone>1-463-123-4447</phone>
+        <location>McKenziehaven</location>
+        <company>Romaguera-Jacobson</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Patricia Lebsack</name>
+        <username>Karianne</username>
+        <email>Julianne.OConner@kory.org</email>
+        <phone>493-170-9623 x156</phone>
+        <location>South Elvis</location>
+        <company>Robel-Corkery</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Chelsey Dietrich</name>
+        <username>Kamren</username>
+        <email>Lucio_Hettinger@annie.ca</email>
+        <phone>(254)954-1289</phone>
+        <location>Roscoeview</location>
+        <company>Keebler LLC</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Mrs. Dennis Schulist</name>
+        <username>Leopoldo_Corkery</username>
+        <email>Karley_Dach@jasper.info</email>
+        <phone>1-477-935-8478 x6430</phone>
+        <location>South Christy</location>
+        <company>Considine-Lockman</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Kurtis Weissnat</name>
+        <username>Elwyn.Skiles</username>
+        <email>Telly.Hoeger@billy.biz</email>
+        <phone>210.067.6132</phone>
+        <location>Howemouth</location>
+        <company>Johns Group</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Nicholas Runolfsdottir V</name>
+        <username>Maxime_Nienow</username>
+        <email>Sherwood@rosamond.me</email>
+        <phone>586.493.6943 x140</phone>
+        <location>Aliyaview</location>
+        <company>Abernathy Group</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Glenna Reichert</name>
+        <username>Delphine</username>
+        <email>Chaim_McDermott@dana.io</email>
+        <phone>(775)976-6794 x41206</phone>
+        <location>Bartholomebury</location>
+        <company>Yost and Sons</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+    <users>
+        <name>Clementina DuBuque</name>
+        <username>Moriah.Stanton</username>
+        <email>Rey.Padberg@karina.biz</email>
+        <phone>024-648-3804</phone>
+        <location>Lebsackbury</location>
+        <company>Hoeger LLC</company>
+        <count_of_posts>1</count_of_posts>
+    </users>
+</root>

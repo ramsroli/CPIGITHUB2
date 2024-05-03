@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+    <users>
+        <id>1</id>
+        <posts>
+            <userId>1</userId>
+            <id>1</id>
+        </posts>
+        <name>Leanne Graham</name>
+        <username>Bret</username>
+        <email>Sincere@april.biz</email>
+        <address>
+            <city>Gwenborough</city>
+        </address>
+        <phone>1-770-736-8031 x56442</phone>
+        <company>
+            <name>Romaguera-Crona</name>
+        </company>
+    </users>
+    <users>
+        <id>2</id>
+        <posts>
+            <userId>1</userId>
+            <id>2</id>
+        </posts>
+        <name>Ervin Howell</name>
+        <username>Antonette</username>
+        <email>Shanna@melissa.tv</email>
+        <address>
+            <city>Wisokyburgh</city>
+        </address>
+        <phone>010-692-6593 x09125</phone>
+        <company>
+            <name>Deckow-Crist</name>
+        </company>
+    </users>
+    <users>
+        <id>3</id>
+        <posts>
+            <userId>1</userId>
+            <id>3</id>
+        </posts>
+        <name>Clementine Bauch</name>
+        <username>Samantha</username>
+        <email>Nathan@yesenia.net</email>
+        <address>
+            <city>McKenziehaven</city>
+        </address>
+        <phone>1-463-123-4447</phone>
+        <company>
+            <name>Romaguera-Jacobson</name>
+        </company>
+    </users>
+    <users>
+        <id>4</id>
+        <posts>
+            <userId>1</userId>
+            <id>4</id>
+        </posts>
+        <name>Patricia Lebsack</name>
+        <username>Karianne</username>
+        <email>Julianne.OConner@kory.org</email>
+        <address>
+            <city>South Elvis</city>
+        </address>
+        <phone>493-170-9623 x156</phone>
+        <company>
+            <name>Robel-Corkery</name>
+        </company>
+    </users>
+    <users>
+        <id>5</id>
+        <posts>
+            <userId>1</userId>
+            <id>5</id>
+        </posts>
+        <name>Chelsey Dietrich</name>
+        <username>Kamren</username>
+        <email>Lucio_Hettinger@annie.ca</email>
+        <address>
+            <city>Roscoeview</city>
+        </address>
+        <phone>(254)954-1289</phone>
+        <company>
+            <name>Keebler LLC</name>
+        </company>
+    </users>
+    <users>
+        <id>6</id>
+        <posts>
+            <userId>1</userId>
+            <id>6</id>
+        </posts>
+        <name>Mrs. Dennis Schulist</name>
+        <username>Leopoldo_Corkery</username>
+        <email>Karley_Dach@jasper.info</email>
+        <address>
+            <city>South Christy</city>
+        </address>
+        <phone>1-477-935-8478 x6430</phone>
+        <company>
+            <name>Considine-Lockman</name>
+        </company>
+    </users>
+    <users>
+        <id>7</id>
+        <posts>
+            <userId>1</userId>
+            <id>7</id>
+        </posts>
+        <name>Kurtis Weissnat</name>
+        <username>Elwyn.Skiles</username>
+        <email>Telly.Hoeger@billy.biz</email>
+        <address>
+            <city>Howemouth</city>
+        </address>
+        <phone>210.067.6132</phone>
+        <company>
+            <name>Johns Group</name>
+        </company>
+    </users>
+    <users>
+        <id>8</id>
+        <posts>
+            <userId>1</userId>
+            <id>8</id>
+        </posts>
+        <name>Nicholas Runolfsdottir V</name>
+        <username>Maxime_Nienow</username>
+        <email>Sherwood@rosamond.me</email>
+        <address>
+            <city>Aliyaview</city>
+        </address>
+        <phone>586.493.6943 x140</phone>
+        <company>
+            <name>Abernathy Group</name>
+        </company>
+    </users>
+    <users>
+        <id>9</id>
+        <posts>
+            <userId>1</userId>
+            <id>9</id>
+        </posts>
+        <name>Glenna Reichert</name>
+        <username>Delphine</username>
+        <email>Chaim_McDermott@dana.io</email>
+        <address>
+            <city>Bartholomebury</city>
+        </address>
+        <phone>(775)976-6794 x41206</phone>
+        <company>
+            <name>Yost and Sons</name>
+        </company>
+    </users>
+    <users>
+        <id>10</id>
+        <posts>
+            <userId>1</userId>
+            <id>10</id>
+        </posts>
+        <name>Clementina DuBuque</name>
+        <username>Moriah.Stanton</username>
+        <email>Rey.Padberg@karina.biz</email>
+        <address>
+            <city>Lebsackbury</city>
+        </address>
+        <phone>024-648-3804</phone>
+        <company>
+            <name>Hoeger LLC</name>
+        </company>
+    </users>
+</root>
